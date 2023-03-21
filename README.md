@@ -7,7 +7,7 @@
 #
 👀 I’m interested in coding..
 <br>
-🌱 I’m currently learning Python and on the quest to gain the AWS Cloud knowledge
+🌱 I’m on the quest to gain the AWS Cloud knowledge learning Python, Docker, Lambda, Kubernetes and much more
 <br>
 💞️ I’m looking to collaborate on with other developers/learners on their journey to gain skills.
 <br><br>
